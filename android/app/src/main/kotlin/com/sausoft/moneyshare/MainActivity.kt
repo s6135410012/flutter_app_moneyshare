@@ -1,4 +1,4 @@
-package com.example.flutter_app_moneyshare
+package com.sausoft.moneyshare
 
 import io.flutter.embedding.android.FlutterActivity
 
